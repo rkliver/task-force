@@ -1,0 +1,18 @@
+{
+    "name": "rkliver/task-force",
+    "description": "Web service for searching performers",
+    "type": "project",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Rkliver\\TaskForce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rkliver",
+            "email": "kliver.one.90@gmail.com"
+        }
+    ],
+    "require": {}
+}
